@@ -1,7 +1,7 @@
 # Hi 👋, I'm Elbek  
 ### 🚀 Full Stack Developer  
 
-💻 I build modern and scalable web applications using **React, Next.js, Node.js, MongoDB** and other cutting-edge technologies.  
+💻 I build modern and scalable web applications using **React, Next.js, Node.js, MongoDB, NestJs, NodeJs** and other cutting-edge technologies.  
 ✨ Passionate about clean code, responsive UI, and creating user-friendly digital experiences.  
 
 ---
@@ -28,12 +28,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <!-- Firebase -->
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="40" height="40"/>
 </p>
 
 ---
 
 ### 📫 Connect with me:
 - GitHub: [elbekmiddle](https://github.com/elbekmiddle)  
-- LinkedIn: [Elbek](https://www.linkedin.com/in/elbek-undefined-944624339/)  
-- Telegram: [@Elbek_Rustamjanov](https://t.me/Elbek_Rustamjanov)  
+- Telegram: [@webdeveloper404](https://t.me/webdeveloper404)  
 - Email: elbek456@gmail.com  
