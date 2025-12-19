@@ -29,6 +29,10 @@
   <!-- Firebase -->
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="40" height="40"/>
+  <img  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="" width="40" height="40" />
+  <img  src="https://raw.githubusercontent.com/detain/svg-logos/b02ee1ac30c7ff4757278337c95588b01ed0954b/svg/p/prisma-2.svg" alt="" width="40" height="40" />
+  <img  src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21~bgwhite.svg" alt="" width="40" height="40" />
+  <img  src="https://upload.vectorlogo.zone/logos/gulpjs/images/858a382c-2ed1-41d2-a5d5-ab7d33b132f5.svg" alt="" width="40" height="40" />
 </p>
 
 ---
