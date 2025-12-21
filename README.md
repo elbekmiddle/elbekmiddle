@@ -1,43 +1,50 @@
 # Hi 👋, I'm Elbek  
-### 🚀 Full Stack Developer  
+### 🚀 Junior Full Stack Developer (16 y.o.)
 
-💻 I build modern and scalable web applications using **React, Next.js, Node.js, MongoDB, NestJs, NodeJs** and other cutting-edge technologies.  
-✨ Passionate about clean code, responsive UI, and creating user-friendly digital experiences.  
+💻 I build modern and scalable web applications using modern JavaScript frameworks.  
+✨ Passionate about clean code, responsive UI, and real-world backend systems.
 
 ---
 
-### 🛠️ Languages and Tools:
+## 🛠️ Languages & Tools
+
+### Frontend
 <p align="left">
-  <!-- HTML5 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <!-- CSS3 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <!-- Bootstrap -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
-  <!-- TailwindCSS -->
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  <!-- shadcn/ui (no official icon, using shadcn logo) -->
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" height="40"/>
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <!-- Next.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <!-- Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <!-- MongoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <!-- Firebase -->
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="40" height="40"/>
-  <img  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="" width="40" height="40" />
-  <img  src="https://raw.githubusercontent.com/detain/svg-logos/b02ee1ac30c7ff4757278337c95588b01ed0954b/svg/p/prisma-2.svg" alt="" width="40" height="40" />
-  <img  src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21~bgwhite.svg" alt="" width="40" height="40" />
-  <img  src="https://upload.vectorlogo.zone/logos/gulpjs/images/858a382c-2ed1-41d2-a5d5-ab7d33b132f5.svg" alt="" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40"/>
 </p>
 
 ---
 
-### 📫 Connect with me:
-- GitHub: [elbekmiddle](https://github.com/elbekmiddle)  
-- Telegram: [@webdeveloper404](https://t.me/webdeveloper404)  
+### Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+</p>
+
+---
+
+### Database & Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/p/prisma.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
+
+---
+
+## 📫 Connect with me
+- GitHub: https://github.com/elbekmiddle  
+- Telegram: https://t.me/webdeveloper404  
 - Email: elbek456@gmail.com  
+
+📌 Open to **Junior / Trainee / Part-time / Remote** opportunities.
