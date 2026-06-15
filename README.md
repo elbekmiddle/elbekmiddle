@@ -1,6 +1,4 @@
-**Backend Developer**
+Hi, I'm Elbek!
 
-📫 Email: [elbek4561@gmail.com](mailto:elbek4561@gmail.com)
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/elbek-rustamjanov-944624339/)
+📫 Email: [elbek4561@gmail.com](mailto:elbek4561@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/elbek-rustamjanov](https://www.linkedin.com/in/elbek-rustamjanov-944624339/)
